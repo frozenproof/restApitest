@@ -1,3 +1,3 @@
 Forced repo
 # restApitest
-Test for NCKH
+Test for NCKH and turning off debugging mode.
